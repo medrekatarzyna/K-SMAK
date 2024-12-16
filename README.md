@@ -5,5 +5,5 @@ The logo was created using Adobe Illustrator, while the business card design was
 *Technologies used*: 
 - Asana - task management,
 - Miro - brainstorming,
-- Canva - card layouts,
-- Adobe Illustrator - creating the logo.
+- Adobe Illustrator - creating the logo,
+- Canva - creating business card.
