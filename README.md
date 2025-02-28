@@ -6,3 +6,4 @@ The logo was created using Adobe Illustrator and Canva. Several versions of the 
 - Asana - task management,
 - Miro - brainstorming,
 - Adobe Illustrator - creating the logo and business card.
+<img width="818" alt="Zrzut ekranu 2025-02-28 o 17 09 30" src="https://github.com/user-attachments/assets/8b9b7014-42d7-434b-8c60-824f45c36aca" />
